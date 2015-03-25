@@ -1,0 +1,6 @@
+prok is I 
+glob is V 
+pish is X 
+how much is prok glob pish ? 
+how much is pish glob prok ? 
+how much is ? 
